@@ -8,6 +8,9 @@ This application uses:
 - Puma
 - Mysql 0.3.18
 - Omniauth Google
+- Faker
+- Jquery-rails
+- Dotenv
 
 
 Getting Started
